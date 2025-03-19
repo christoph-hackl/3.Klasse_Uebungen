@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive - HTBLuVA St. Pölten/HTL_Jahr_3/FSST/friends_und_polymorphie/cmake-build-debug/CMakeFiles/friends_und_polymorphie.dir
+C:/Users/chris/OneDrive - HTBLuVA St. Pölten/HTL_Jahr_3/FSST/friends_und_polymorphie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive - HTBLuVA St. Pölten/HTL_Jahr_3/FSST/friends_und_polymorphie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

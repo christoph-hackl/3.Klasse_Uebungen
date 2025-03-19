@@ -1,0 +1,3 @@
+C:/Users/chris/CLionProjects/dynamischer_Speicher_uebung/cmake-build-debug/CMakeFiles/dynamischer_Speicher_uebung.dir
+C:/Users/chris/CLionProjects/dynamischer_Speicher_uebung/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/CLionProjects/dynamischer_Speicher_uebung/cmake-build-debug/CMakeFiles/rebuild_cache.dir

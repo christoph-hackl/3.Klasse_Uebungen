@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive - HTBLuVA St. Pölten/HTL_Jahr_3/FSST/ableitungsspezifizierer/cmake-build-debug/CMakeFiles/ableitungsspezifizierer.dir
+C:/Users/chris/OneDrive - HTBLuVA St. Pölten/HTL_Jahr_3/FSST/ableitungsspezifizierer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive - HTBLuVA St. Pölten/HTL_Jahr_3/FSST/ableitungsspezifizierer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
