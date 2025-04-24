@@ -1,0 +1,3 @@
+C:/HTL_Jahr_3/FSST/abstrakte_Klassen/cmake-build-debug/CMakeFiles/abstrakte_Klassen.dir
+C:/HTL_Jahr_3/FSST/abstrakte_Klassen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HTL_Jahr_3/FSST/abstrakte_Klassen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
